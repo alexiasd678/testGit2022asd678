@@ -17,4 +17,12 @@
 15	checkout Historia001
 16	stash apply
 11	stash + checkout Historia000
+18 	add
+19	commit
+20	merge Historia000	    Estando en Historia001
+				    fusion recursiva con conflictos
+	edito bitacora.txt
+	add
+	commit
+
 
