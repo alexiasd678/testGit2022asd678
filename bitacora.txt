@@ -16,3 +16,5 @@
 14	commit
 15	checkout Historia001
 16	stash apply
+11	stash + checkout Historia000
+
