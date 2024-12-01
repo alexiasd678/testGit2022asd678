@@ -1,11 +1,30 @@
 %%==================================================================%%
 %%              Métodos de Desarrollo - Test de Git                 %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Setién Diez, Alexia                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ===============================
+
+03	branch Historia000
+04 	branch Historia001
+05 	checkout Historia000
+07 	add 
+08	commit 
+09 	checkout Historia001
+11	stash + checkout Historia000
+13	add
+14	commit
+15	checkout Historia001
+16	stash apply
+18 	add
+19	commit
+20	merge Historia000	    Estando en Historia001
+				    fusion recursiva con conflictos
+	edito bitacora.txt
+	add
+	commit
 22	add
 23	commit
 24	checkout main 
@@ -13,3 +32,4 @@
 26	add + commit 
 27 	tag "RespuestaPreguntaFusion"
 28	push + push origin RespuestaPreguntaFusion
+
