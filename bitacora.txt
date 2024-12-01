@@ -10,3 +10,6 @@
 23	commit
 24	checkout main 
 25	Fast-Foward
+26	add + commit 
+27 	tag "RespuestaPreguntaFusion"
+28	push + push origin RespuestaPreguntaFusion
