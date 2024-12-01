@@ -1,8 +1,18 @@
 %%==================================================================%%
 %%              Métodos de Desarrollo - Test de Git                 %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Setién Diez, Alexia                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ===============================
+03	branch Historia000
+04 	branch Historia001
+05 	checkout Historia000
+07 	add 
+08	commit 
+09 	checkout Historia001
+13	add
+14	commit
+15	checkout Historia001
+16	stash apply
